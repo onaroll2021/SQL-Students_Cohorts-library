@@ -1,0 +1,1 @@
+SELECT name, email, phone FROM students WHERE cohort_id IS NOT NULL AND github IS NULL;
